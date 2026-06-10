@@ -1,6 +1,6 @@
 {
   "name": "create-ts-setup",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Interactive CLI to scaffold a barebones custom TypeScript setup",
   "type": "module",
   "bin": {
